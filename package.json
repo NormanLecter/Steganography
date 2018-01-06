@@ -1,0 +1,22 @@
+{
+  "name": "steganography",
+  "version": "1.0.0",
+  "description": "stegangraphy in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "steganography",
+    "js",
+    "node",
+    "jimp",
+    "npm",
+    "vs"
+  ],
+  "author": "Lukasz Wolniak",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.2.28"
+  }
+}
